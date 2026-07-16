@@ -7,6 +7,9 @@ A fully responsive **Amazon Homepage Clone** built using **HTML5** and **CSS3**.
 ## 📸 Screenshots
 
 <img width="1901" height="867" alt="image" src="https://github.com/user-attachments/assets/4b21acde-93e2-4fe7-a711-aea5e622fedb" />
+
+<img width="1896" height="863" alt="image" src="https://github.com/user-attachments/assets/71862565-0651-41ff-a47d-59b3ccdb1807" />
+
 <img width="1901" height="872" alt="image" src="https://github.com/user-attachments/assets/b1a61921-39bf-46c3-9ebf-51db68ea268f" />
 
 
